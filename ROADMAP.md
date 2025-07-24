@@ -39,6 +39,6 @@ email: rocha.deusiane@acad.ifma.edu.br
 
 [Propostas de  melhorias para a interface e experiência do usuário](https://github.com/4rroganzz/LibreOffice-UX)
 	
- email:arthur.carvalho@acad.ifma.edu.br 
+ email: arthur.carvalho@acad.ifma.edu.br 
 
 
