@@ -2,7 +2,7 @@
 ## Visão de Projeto:
 Nosso objetivo é transformar o LibreOffice, especialmente o Calc, em uma ferramenta ainda mais acessível, amigável e útil para públicos diversos, desde usuários iniciantes até entusiastas de automação e jogos. Visualizamos um ecossistema onde o LibreOffice seja não apenas uma suíte de produtividade robusta, mas também um ambiente aberto para inovações criativas, integrando-se com a cultura digital e as necessidades cotidianas dos usuários.
 
-Com contribuições que abrangem: criação de um guia prático de instalação e uso, a elaboração de uma macro voltada para jogadores de League of Legends, Criação de teste de regressão e  propostas de  melhorias para a interface e experiência do usuário . O grupo busca mostrar o potencial do Calc para resolver problemas do mundo real e promover uma experiência mais envolvente.
+Com contribuições que abrangem: criação de um guia prático de uso, vídeo de guia para download ,a elaboração de uma macro voltada para jogadores de League of Legends, Criação de teste de regressão e  propostas de  melhorias para a interface e experiência do usuário . O grupo busca mostrar o potencial do Calc para resolver problemas do mundo real e promover uma experiência mais envolvente.
 
 ## Desafios Propostos por contribuição: 
 
@@ -23,8 +23,9 @@ OBS: Essas são apenas algumas ideias, contudo não é necessário se limitar so
 ## Como contribuir:
 Ficaremos felizes com sua contribuição. Crie um Pull Request e nos sinalize para análise. Dúvidas podem ser esclarecidas via e-mail. A seguir estão repositórios e e-mails dos responsáveis por cada contribuição.
 
-Guia prático de instalação e uso:
-	email:
+[Guia prático de uso]( https://www.canva.com/design/DAGpVO-VoAk/xRx6oYN6yD2yPnv44HUzJg/edit?utm_content=DAGpVO-VoAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Vídeo de guia para download](https://youtu.be/EhDYmniA0mE)
+	email:rocha.deusiane@acad.ifma.edu.br
  
 [Macro que converte Riot Points (League of Legends) para Reais](https://github.com/rudneyggf/contribuicao_libreoffice)
 	
@@ -34,7 +35,7 @@ Guia prático de instalação e uso:
 	
  email: felipemoura@acad.ifma.edu.br 
 
-Propostas de  melhorias para a interface e experiência do usuário:
+[Propostas de  melhorias para a interface e experiência do usuário](https://github.com/4rroganzz/LibreOffice-UX)
 	
  email:arthur.carvalho@acad.ifma.edu.br 
 
