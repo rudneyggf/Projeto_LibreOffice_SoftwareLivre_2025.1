@@ -27,7 +27,7 @@ Ficaremos felizes com sua contribuição. Crie um Pull Request e nos sinalize pa
 
 [Vídeo de guia para download](https://youtu.be/EhDYmniA0mE)
 
-	email:rocha.deusiane@acad.ifma.edu.br
+email: rocha.deusiane@acad.ifma.edu.br
  
 [Macro que converte Riot Points (League of Legends) para Reais](https://github.com/rudneyggf/contribuicao_libreoffice)
 	
