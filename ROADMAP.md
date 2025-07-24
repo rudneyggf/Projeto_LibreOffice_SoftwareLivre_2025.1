@@ -27,12 +27,15 @@ Guia prático de instalação e uso:
 	email:
  
 [Macro que converte Riot Points (League of Legends) para Reais](https://github.com/rudneyggf/contribuicao_libreoffice)
-	email: rudney.fonseca@acad.ifma.edu.br
+	
+ email: rudney.fonseca@acad.ifma.edu.br
 
 [Teste de Regressão](https://github.com/lipefemoura/testes-vlookup-libreoffice-calc.git)
-	email: felipemoura@acad.ifma.edu.br 
+	
+ email: felipemoura@acad.ifma.edu.br 
 
 Propostas de  melhorias para a interface e experiência do usuário:
-	email:arthur.carvalho@acad.ifma.edu.br 
+	
+ email:arthur.carvalho@acad.ifma.edu.br 
 
 
