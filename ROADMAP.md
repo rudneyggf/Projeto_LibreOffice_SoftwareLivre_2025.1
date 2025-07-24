@@ -24,7 +24,9 @@ OBS: Essas são apenas algumas ideias, contudo não é necessário se limitar so
 Ficaremos felizes com sua contribuição. Crie um Pull Request e nos sinalize para análise. Dúvidas podem ser esclarecidas via e-mail. A seguir estão repositórios e e-mails dos responsáveis por cada contribuição.
 
 [Guia prático de uso]( https://www.canva.com/design/DAGpVO-VoAk/xRx6oYN6yD2yPnv44HUzJg/edit?utm_content=DAGpVO-VoAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [Vídeo de guia para download](https://youtu.be/EhDYmniA0mE)
+
 	email:rocha.deusiane@acad.ifma.edu.br
  
 [Macro que converte Riot Points (League of Legends) para Reais](https://github.com/rudneyggf/contribuicao_libreoffice)
